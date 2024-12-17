@@ -1,0 +1,16 @@
+name: cosyvoice
+id: ari:cloud:compass:6531ebe9-1b3a-4f2a-8653-180c5ab1b17d:component/a11e654f-fbb0-4383-891d-d22c4dacf0af/a1622038-e484-4819-b728-cd0df3be726c
+description: Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/thewlabs/cosyvoice
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
